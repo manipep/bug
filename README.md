@@ -1,4 +1,4 @@
-# botst4rz
+# Naberall
 BOT WHATSAPP HP Reyan
 
 ### Alat dan Bahan
