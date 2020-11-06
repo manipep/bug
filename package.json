@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@district.area/baileys": "^3.2.1",
+    "@adiwajshing/baileys": "^3.2.1",
     "brainly-scraper": "^1.0.2",
     "cheerio": "^1.0.0-rc.3",
     "cloudconvert": "^2.1.5",
@@ -29,15 +29,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manipep/bug.git"
+    "url": "git+https://github.com/Bintang73/botst4rz.git"
   },
   "keywords": [
     "k"
   ],
-  "author": "Reyhan",
+  "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/manipep/bug/issues"
+    "url": "https://github.com/Bintang73/botst4rz/issues"
   },
-  "homepage": "https://github.com/manipep/bug#readme"
+  "homepage": "https://github.com/Bintang73/botst4rz#readme"
 }
+© 2020 GitHub, Inc.
