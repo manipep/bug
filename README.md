@@ -1,12 +1,12 @@
 # botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+BOT WHATSAPP HP Reyan
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
 ```bash
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan qr)
-> internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae
+> internet yang memadai, kalo lu gapunya kuota pake kuota hostpot ae
 > aplikasi whatsapp
 > aplikasi termux
 > kopi
@@ -26,7 +26,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| st4rz BOT       |                Feature           |
+| manipep      |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
@@ -45,8 +45,6 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
 
-## Special Thanks to
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+## Autor
+* [`termux-whatsapp-bot`](https://github.com/manipep/bug)
 
-### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
